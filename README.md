@@ -11,17 +11,11 @@ A Python-based TCP port scanner designed to identify open ports and their common
 
 
 * TCP port scanning (ports 1–1024)
-* 
 * Open port detection
-* 
 * Common service identification
-* 
 * Hostname resolution
-* 
 * Scan duration tracking
-* 
 * Error handling
-* 
 * ASCII banner
 
 
@@ -31,11 +25,8 @@ A Python-based TCP port scanner designed to identify open ports and their common
 
 
 * Python 3
-* 
 * Socket Programming
-* 
 * PyFiglet
-* 
 * TCP/IP Networking
 
 
@@ -83,12 +74,8 @@ Total open ports: 2
 **Future Improvements**
 
 * Multithreaded scanning
-* 
 * Custom port ranges
-* 
 * Service banner detection
-* 
 * Export results to CSV
-* 
 * Graphical user interface
 
